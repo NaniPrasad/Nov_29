@@ -8,6 +8,7 @@ public class MainClass {
 		System.out.println("nsdgf");
 		System.out.println("shgbas");
 		System.out.println("training");
+		
 	}
 	public static void main(String[] args) {
 		Orderclass o=new Orderclass();
