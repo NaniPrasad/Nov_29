@@ -6,6 +6,7 @@ public class MainClass {
 	
 	public static void m1(){
 		System.out.println("nsdgf");
+		System.out.println("shgbas");
 	}
 	public static void main(String[] args) {
 		Orderclass o=new Orderclass();
