@@ -13,6 +13,7 @@ public class MainClass {
 		Orderclass o=new Orderclass();
 		o.m2();
 		m1();
+		o.m3();
 
 	}
 
