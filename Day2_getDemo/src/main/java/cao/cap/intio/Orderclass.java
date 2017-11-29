@@ -7,8 +7,4 @@ public class Orderclass {
 		
 		System.out.println(":prasaf");
 	}
-public void m3(){
-		
-		System.out.println("GIT");
-	}
 }
